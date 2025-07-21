@@ -67,6 +67,22 @@ export default function About() {
         "Provides strategic counsel and mentorship to the executive team, leveraging experience to guide long-term growth.",
       linkedin: "https://www.linkedin.com/in/luismontess/",
     },
+    {
+      name: "Ivonne Hernandez",
+      role: "Marketing Lead",
+      image_name: `members/ivonneMarketinglead.jpg`,
+      description:
+        "Develops and executes marketing strategies, manages social media presence, and enhances TecBytes' brand visibility.",
+      linkedin: "https://www.linkedin.com/in/luismontess/",
+    },
+    {
+      name: "Andrea Del Rosario",
+      role: "Logistics",
+      image_name: `members/andyCoordinator.jpg`,
+      description:
+        "Coordinates event logistics, manages resources, and ensures smooth operations for all TecBytes activities.",
+      linkedin: "https://www.linkedin.com/in/luismontess/",
+    },
   ];
 
   return (
